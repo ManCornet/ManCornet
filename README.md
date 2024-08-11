@@ -3,10 +3,10 @@
     Hi <img src="gifs/hi.gif" alt="Saying Hi !" height="35" width="35" />, &nbsp; I'm Manon !
 </h1>
 
-- 🎓 PhD student in Electrical Engineering with a passion for ...
+- 🎓 PhD student in Electrical Engineering with a passion for mathematical programming and game theory
 - 👩🏻‍🔬 Dynamic, meticulous, (extraordinary) curious, social and organized individual
 - 👩🏻‍🤝‍👨🏼 Thrives on working as a team to tackle new problems and projects
-- 🗣 Fluent in French, full professional proficiency in English and good knowledge of Dutch
+- 🗣 Fluent in French, full professional proficiency in English and basic knowledge of Dutch
 - 💬 Favorite music:
 > Angela by the Lumineers
 
