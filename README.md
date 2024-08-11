@@ -15,14 +15,6 @@
 </h1>
 
 <p align="center">
-    <a href="" target="_blank" title="" ><img src="coding/"    hspace="13" height="40" width="40"/></a>
-    <a href="https://www.python.org"                                                     target="_blank" title="Python"   ><img src="coding/python.png"   hspace="13" height="40" width="40"/></a>
-    <a href="https://pytorch.org"                                                        target="_blank" title="Pytorch"  ><img src="coding/pytorch.png"  hspace="13" height="40" width="40"/></a>
-    <a href="https://scikit-learn.org/stable/"                                           target="_blank" title="Sklearn"  ><img src="coding/sklearn.png"  hspace="13" height="40" width="40"/></a>
-    <a href="https://www.ibm.com/docs/en/aix/7.2?topic=aix-assembler-language-reference" target="_blank" title="Assembly" ><img src="coding/assembly.png" hspace="13" height="40" width="40"/></a>
-    <a href="https://julialang.org"                                                      target="_blank" title="Julia"    ><img src="coding/julia.png"    hspace="13" height="40" width="40"/></a>
-    <a href="https://jump.dev/JuMP.jl/stable/"                                           target="_blank" title="JumP"     ><img src="coding/jump.png"     hspace="13" height="40" width="40"/></a>
-    <a href="https://www.w3schools.com/c/c_intro.php"                                    target="_blank" title="C"        ><img src="coding/c.png"        hspace="13" height="40" width="40"/></a>
     <a href="https://www.openmp.org"                                                     target="_blank" title="OpenMP"   ><img src="coding/openmp.jpg"   hspace="13" height="40" width="40"/></a>
     <a href="https://www.open-mpi.org"                                                   target="_blank" title="MPI"      ><img src="coding/mpi.png"      hspace="13" height="40" width="40"/></a>
     <a href="https://www.java.com/fr/"                                                   target="_blank" title="Java"     ><img src="coding/java.png"     hspace="13" height="40" width="40"/></a>
@@ -30,6 +22,18 @@
     <a href="https://www.php.net"                                                        target="_blank" title="PHP"      ><img src="coding/php.png"      hspace="13" height="40" width="40"/></a>
     <a href="http://www.pyomo.org"                                                       target="_blank" title="Pyomo"    ><img src="coding/pyomo.png"    hspace="13" height="40" width="40"/></a>
     <a href="https://sql.sh"                                                             target="_blank" title="SQL"      ><img src="coding/sql.png"      hspace="13" height="40" width="40"/></a>
+</p>
+
+<br></br>
+
+<p align="center">
+    <a href="https://www.python.org"                                                     target="_blank" title="Python"   ><img src="coding/python.png"   hspace="13" height="40" width="40"/></a>
+    <a href="https://pytorch.org"                                                        target="_blank" title="Pytorch"  ><img src="coding/pytorch.png"  hspace="13" height="40" width="40"/></a>
+    <a href="https://scikit-learn.org/stable/"                                           target="_blank" title="Sklearn"  ><img src="coding/sklearn.png"  hspace="13" height="40" width="40"/></a>
+    <a href="https://www.ibm.com/docs/en/aix/7.2?topic=aix-assembler-language-reference" target="_blank" title="Assembly" ><img src="coding/assembly.png" hspace="13" height="40" width="40"/></a>
+    <a href="https://julialang.org"                                                      target="_blank" title="Julia"    ><img src="coding/julia.png"    hspace="13" height="40" width="40"/></a>
+    <a href="https://jump.dev/JuMP.jl/stable/"                                           target="_blank" title="JumP"     ><img src="coding/jump.png"     hspace="13" height="40" width="40"/></a>
+    <a href="https://www.w3schools.com/c/c_intro.php"                                    target="_blank" title="C"        ><img src="coding/c.png"        hspace="13" height="40" width="40"/></a>
 </p>
 
 > <a href="https://www.flaticon.com/free-icons/python" style="no" target="_blank" title="Icons">Flaticon</a>
