@@ -24,8 +24,6 @@
     <a href="https://sql.sh"                                                             target="_blank" title="SQL"      ><img src="coding/sql.png"      hspace="13" height="40" width="40"/></a>
 </p>
 
-<br></br>
-
 <p align="center">
     <a href="https://www.python.org"                                                     target="_blank" title="Python"   ><img src="coding/python.png"   hspace="13" height="40" width="40"/></a>
     <a href="https://pytorch.org"                                                        target="_blank" title="Pytorch"  ><img src="coding/pytorch.png"  hspace="13" height="40" width="40"/></a>
